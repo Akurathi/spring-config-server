@@ -1,2 +1,2 @@
 ---
-server.servlet.context-path: /ownerapi
+owner-server.context-path: /ownerapi
